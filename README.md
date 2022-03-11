@@ -10,5 +10,5 @@ Input:
 Output
    simple interest = p*t*r
 <footer>
-	<p>© 2021 XYZ, Inc.</p>
+	<p>© 2022 XYZ, Inc.</p>
 </footer>
