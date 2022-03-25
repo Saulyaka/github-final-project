@@ -25,8 +25,8 @@ jobs:
     - name: Check Out Repo 
       uses: actions/checkout@v2
 
-    - name: saulyaka
-      uses:  github-final-project/login-action@v1
+    - name: Saulyaka
+      uses:  Saulyaka/github-final-project/login-action@v1
       with:
         username: ${{ secrets.DOCKER_HUB_USERNAME }}
         password: ${{ secrets.DOCKER_HUB_ACCESS_TOKEN }}
